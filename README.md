@@ -4,11 +4,11 @@ Protect yourself from Realme And Oppo Tracker!
 
 
 
-#How To Use?
+## How To Use?
 Just addy host file or link in any blocker that
 You like or on Pi-Hole Or Router
 
-#Warning!
+## Warning!
 
 1. Pi-Hole / Router Installation
 This will affect all devices that are connected
