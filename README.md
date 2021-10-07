@@ -6,7 +6,7 @@ Hosts file to block Android Telemetry and make privacy free.
 Just add host file or link in any blocker that
 You like or on Pi-Hole Or Router
 
-## Warning!
+# Warning!
 
 1. Pi-Hole / Router Installation
 This will affect all devices that are connected
@@ -16,7 +16,7 @@ To same WiFi or internet provider
 3. You might can't use any or vendor services
 (THIS IS INCLUDED CLOUD STORAGE AND OTA UPDATE)
 
-#FAQ
+# FAQ
 1. Why user must use host list to block annoyance?
 Blocking website or domain only work via host list
 For example:
