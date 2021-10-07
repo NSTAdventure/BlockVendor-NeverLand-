@@ -12,7 +12,8 @@ You like or on Pi-Hole Or Router
 This will affect all devices that are connected
 To same WiFi or internet provider
 
-2. You might can't visit the official website of that vendor.
-
+2. You might can't visit the official website of that vendor
+3. Ypu might can't use any or vendor services
+(THIS IS INCLUDED CLOUD STORAGE AND OTA UPDATE)
 
 
