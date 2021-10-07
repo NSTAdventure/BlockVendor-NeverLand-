@@ -1,7 +1,5 @@
-# BlockRealme
-List to block Realme And Oppo Domain
-Protect yourself from Realme And Oppo Tracker!
-
+# BlockAndroid
+Hosts file to block Android Telemetry and make privacy free.
 
 
 ## How To Use?
@@ -14,7 +12,7 @@ You like or on Pi-Hole Or Router
 This will affect all devices that are connected
 To same WiFi or internet provider
 
-2. You might can't visit any Main website for This vendor
+2. You might can't visit the official website of that vendor.
 
 
 
