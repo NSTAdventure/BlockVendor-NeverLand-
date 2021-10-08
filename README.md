@@ -1,6 +1,5 @@
 # BlockTelemetryAndroid
-Hosts file to block Android Telemetry and make privacy free.
-
+Hosts file to block Android Telemetry to claim your privacy back!
 
 # How To Use?
 Just add host file or link in any blocker that
