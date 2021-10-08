@@ -2,7 +2,7 @@
 Hosts file to block Android Telemetry and make privacy free.
 
 
-## How To Use?
+# How To Use?
 Just add host file or link in any blocker that
 You like or on Pi-Hole Or Router
 
@@ -13,6 +13,7 @@ This will affect all devices that are connected
 To same WiFi or internet provider
 
 2. You might can't visit the official website of that vendor
+
 3. You might can't use any or vendor services
 (THIS IS INCLUDED CLOUD STORAGE AND OTA UPDATE)
 
@@ -28,9 +29,6 @@ Or
 
 0.0.0.0 www.example.com
 
-Note: Host file doesn't support of blocking SubDomains,
-Eg. If you block example.com then thr SubDomains of the website will not be blocked such as www.example.com or blog.example.com
-
 2. Why must block telemetry? Something wrong with it?.
 
 Telemetry is designed to track you 
@@ -38,7 +36,7 @@ Telemetry is designed to track you
 We block them to prevent telemetry collect and send your
 Data to the company 
 
-We also want to make vendor devices bloatware free
+We also want to make vendor devices can claim back it's Privacy!
 
 3. Do this blocklist can working on both non root
 And rooted devices?
@@ -51,3 +49,8 @@ if using VPN mode then no root required
 
 Alternative way is using firewall and
 Block all system app and OTA Update
+
+4. Host file doesn't support of blocking SubDomains,
+Eg. If you block example.com then
+SubDomains of the website will not be blocked
+such as www.example.com or blog.example.com
