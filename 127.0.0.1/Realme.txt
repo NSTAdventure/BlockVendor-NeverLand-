@@ -27,3 +27,5 @@
 127.0.0.1 api-gl.store.heytapmobi.com
 127.0.0.1 epoch-gl.cdo.heytapmobi.com
 127.0.0.1 conn1.oppomobile.com
+127.0.0.1 conf-sg.dc.heytapmobi.com
+127.0.0.1 httpdns.ocloud.heytapmobi.com
