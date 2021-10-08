@@ -19,22 +19,32 @@ To same WiFi or internet provider
 # FAQ
 1. Why user must use host list to block annoyance?
 Blocking website or domain only work via host list
+
 For example:
+
 127.0.0.1 (www.pieceofcrap.com)
+
 Or
+
 0.0.0.0 (www.pieceofcrap.com)
 
 2. Why must block telemetry? Something wrong with it?.
+
 Telemetry is designed to track you 
+
 We block them to prevent telemetry collect and send your
 Data to the conpany 
+
 We also want to make vendor devices bloatware free
 
 3. Do this blocklist can working on both non root
 And rooted devices?
 
-First this just a blocklist not a app so you can
-Use this list on any your favourite blocking apps
-Rooting or not? Depending on the app itself if using VPN mode then no root required
+First this just a blocklist not a app,
+so you can Use this list
+on any your favourite blocking apps
+Rooting or not? Depending on the app itself
+if using VPN mode then no root required
 
-Alternative way is using firewall and block all OEM vendor update
+Alternative way is using firewall and
+Block all system app and OTA Update
