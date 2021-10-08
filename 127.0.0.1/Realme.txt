@@ -4,6 +4,7 @@
 127.0.0.1 oppomobile.com
 127.0.0.1 heytapmobi.com
 127.0.0.1 heytapmobile.com
+127.0.0.1 heytapdownload.com
 127.0.0.1 allawnofs.com
 127.0.0.1 coloros.com
 127.0.0.1 wsds.cn
@@ -27,5 +28,10 @@
 127.0.0.1 api-gl.store.heytapmobi.com
 127.0.0.1 epoch-gl.cdo.heytapmobi.com
 127.0.0.1 conn1.oppomobile.com
+127.0.0.1 conn2.oppomobile.com
+127.0.0.1 conn1.coloros.com
+127.0.0.1 conn2.coloros.com
 127.0.0.1 conf-sg.dc.heytapmobi.com
 127.0.0.1 httpdns.ocloud.heytapmobi.com
+127.0.0.1 client-uc.heytapmobi.com
+127.0.0.1 appconf.heytapdownload.com
