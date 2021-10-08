@@ -4,10 +4,17 @@
 127.0.0.1 heytapmobi.com
 127.0.0.1 heytapmobile.com
 127.0.0.1 allawnofs.com
-126.0.0.1 coloros.com
+127.0.0.1 coloros.com
+127.0.0.1 wsds.cn
+127.0.0.1 xunyou.mobi
+
 127.0.0.1 videoclipf.apps.coloros.com
 127.0.0.1 httpdns.ocloud.oppomobile.com
 127.0.0.1 feedback-gl.heytapmobi.com
 127.0.0.1 ota-manual-sg.allawnofs.com
 127.0.0.1 ifota.coloros.com
 127.0.0.1 ups.ksmobile.net
+127.0.0.1 pay-sg.wsds.cn
+127.0.0.1 portal-sg.xunyou.mobi
+127.0.0.1 isp-map.xunyou.mobi
+127.0.0.1 drone.xunyou.mobi
