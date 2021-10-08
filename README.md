@@ -22,18 +22,21 @@ Blocking website or domain only work via host list
 
 For example:
 
-127.0.0.1 (www.pieceofcrap.com)
+127.0.0.1 www.example.com
 
 Or
 
-0.0.0.0 (www.pieceofcrap.com)
+0.0.0.0 www.example.com
+
+Note: Host file doesn't support of blocking SubDomains,
+Eg. If you block example.com then thr SubDomains of the website will not be blocked such as www.example.com or blog.example.com
 
 2. Why must block telemetry? Something wrong with it?.
 
 Telemetry is designed to track you 
 
 We block them to prevent telemetry collect and send your
-Data to the conpany 
+Data to the company 
 
 We also want to make vendor devices bloatware free
 
