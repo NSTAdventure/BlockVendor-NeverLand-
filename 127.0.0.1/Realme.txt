@@ -8,7 +8,6 @@
 127.0.0.1 coloros.com
 127.0.0.1 wsds.cn
 127.0.0.1 xunyou.mobi
-127.0.0.1 oppomobile.com
 
 # Subdomain Of Realme Oppo Telemetry
 127.0.0.1 videoclipf.apps.coloros.com
