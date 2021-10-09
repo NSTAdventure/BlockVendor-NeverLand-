@@ -1,9 +1,0 @@
-# Information Collected from https://www.reddit.com/r/ControlD/comments/p8lcmf/please_block_these_oppo_telemetry/
-0.0.0.0 omes-sec.heytapmobile.com
-0.0.0.0 stat-in.dc.oppomobile.com
-0.0.0.0 httpdns-push.heytapmobile.com
-0.0.0.0 conf-in.dc.heytapmobi.com
-0.0.0.0 conff.dc.oppomobile.com
-0.0.0.0 dragate-in-dc.heytapmobile.com
-0.0.0.0 mdp-appconf-sg.heytapdl.com
-0.0.0.0 adx-in.ads.heytapmobile.com
