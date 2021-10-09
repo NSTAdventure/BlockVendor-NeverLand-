@@ -43,3 +43,10 @@
 127.0.0.1 conff.dc.oppomobile.com
 127.0.0.1 dragate-in-dc.heytapmobile.com
 127.0.0.1 mdp-appconf-sg.heytapdl.com
+127.0.0.1 omes-sec.heytapmobile.com
+127.0.0.1 stat-in.dc.oppomobile.com
+127.0.0.1 httpdns-push.heytapmobile.com
+127.0.0.1 conf-in.dc.heytapmobi.com
+127.0.0.1 conff.dc.oppomobile.com
+127.0.0.1 dragate-in-dc.heytapmobile.com
+127.0.0.1 mdp-appconf-sg.heytapdl.com
