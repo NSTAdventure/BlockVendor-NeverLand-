@@ -1,7 +1,0 @@
-- [x] manajer telepon  
-- [x] foto  
-- [x] software updates  
-- [x] Game Space  
-- [x] Heytap cloud  
-- [x] App Market  
-- [x] My Realme
