@@ -1,0 +1,12 @@
+|||||||BlockList for Xiaomi|||||||
+#Main Xiaomi Domain
+127.0.0.1 xiaomi.com
+127.0.0.1 xiaomi.net
+127.0.0.1 miui.com
+
+#And their subdomain
+127.0.0.1 global.market.xiaomi.com
+127.0.0.1 us.find.api.micloud.xiaomi.net
+127.0.0.1 account.xiaomi.com
+127.0.0.1 find.api.micloud.xiaomi.net
+127.0.0.1 update.miui.com
