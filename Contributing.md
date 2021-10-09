@@ -21,4 +21,5 @@ Using browser search site feature
 2. No NSFW and other annoyance words or other things
 
 3. (For Merge Request) Enable all feature included edit DON'T DISABLE THOSE ⚠️
+
 Violations will result in warn or ban ⚠️
